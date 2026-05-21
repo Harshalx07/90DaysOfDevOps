@@ -33,4 +33,4 @@
 
 ## Hands on of above commands
 
-/Users/mikey/Desktop/Screenshot 2026-05-21 at 1.14.15 PM.png
+<img width="1512" height="982" alt="Screenshot 2026-05-21 at 1 14 15 PM" src="https://github.com/user-attachments/assets/254d1b0c-cbf8-4422-a005-8149f78a5a70" />

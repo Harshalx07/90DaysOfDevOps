@@ -7,13 +7,13 @@
 * Create script.sh using vim with content: echo "Hello DevOps"
 * Verify: ls -l to see permissions
 
-![alt text](<Screenshot 2026-05-25 at 5.36.35 AM.png>)
+![snapshot](<Screenshot 2026-05-25 at 5.36.35 AM.png>)
 
 ## Read Files
 
 * Read notes.txt using cat
 
-![alt text](<Screenshot 2026-05-25 at 5.52.09 AM.png>)
+![snapshot](<Screenshot 2026-05-25 at 5.52.09 AM.png>)
 
 * View script.sh in vim read-only mode - `vim -R script.sh`
 
@@ -21,17 +21,17 @@
 
 * Display first 5 lines of /etc/passwd using head
 
-![alt text](<Screenshot 2026-05-25 at 5.37.50 AM.png>)
+![snapshot](<Screenshot 2026-05-25 at 5.37.50 AM.png>)
 
 * Display last 5 lines of /etc/passwd using tail
 
-![alt text](<Screenshot 2026-05-25 at 5.37.58 AM.png>)
+![snapshot](<Screenshot 2026-05-25 at 5.37.58 AM.png>)
 
 # Permission Changes
 
 ## Understand Permissions
 
-![alt text](<Screenshot 2026-05-25 at 5.39.18 AM.png>)
+![snapshot](<Screenshot 2026-05-25 at 5.39.18 AM.png>)
 
 * Current permissions :
 
@@ -48,19 +48,19 @@
 
 * Make script.sh executable → run it with ./script.sh
 
-![alt text](<Screenshot 2026-05-25 at 5.40.27 AM.png>)
+![snapshot](<Screenshot 2026-05-25 at 5.40.27 AM.png>)
 
 * Set devops.txt to read-only (remove write for all)
 
-![alt text](<Screenshot 2026-05-25 at 5.41.07 AM.png>)
+![snapshot](<Screenshot 2026-05-25 at 5.41.07 AM.png>)
 
 * Set notes.txt to 640 (owner: rw, group: r, others: none)
 
-![alt text](<Screenshot 2026-05-25 at 5.41.48 AM.png>)
+![snapshot](<Screenshot 2026-05-25 at 5.41.48 AM.png>)
 
 * Create directory project/ with permissions 755
 
-![alt text](<Screenshot 2026-05-25 at 5.42.30 AM.png>)
+![snapshot](<Screenshot 2026-05-25 at 5.42.30 AM.png>)
 
 ## Test Permissions
 
